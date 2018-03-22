@@ -5,5 +5,4 @@ package pv239.fi.muni.cz.dailymenupicker.parser.config
  */
 data class Day(
         var dayParserType: String,
-        var menuElement: String) {
-}
+        var menuElement: String)

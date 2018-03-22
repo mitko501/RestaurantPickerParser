@@ -8,5 +8,4 @@ data class Menu(
         val dayParser: Day,
 
         val elementName: String,
-        val elementAttribute: Pair<String, String>) {
-}
+        val elementAttribute: AttributeType)
